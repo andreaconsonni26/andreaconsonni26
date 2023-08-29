@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there! 👋
+#### Hello there! I'm Andrea and I've always been captivated by the realms of programming and IT. With a background in finance, I've ventured into the world of Data Science, exploring its intricacies. I'm here on Github to learn, delving into more and more concepts and learning from scratch about topics that I'm lacking.
+#### My interests cover the analysis of economic and financial data as well as alternative data to unravel insights into social phenomena.
+#### I'm currently working on forecasting financial models and trading algorithms. Beyond that, I'm collaborating with friends on the amateur development of two iOS apps during my leisure hours.
+#### But that's not all, I am deeply intrigued by the advances in gene therapy🧬 and the universe of healthcare. As I navigate these spaces, I'm on a quest to harmoniously blend all my passions into a unified direction
 
 <!--
 **andreaconsonni26/andreaconsonni26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
