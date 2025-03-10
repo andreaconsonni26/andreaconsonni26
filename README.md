@@ -1,7 +1,9 @@
-Somewhere between Finance and Computer Science.
-Lifelong learner.
-Seeking truth in data.
+Somewhere between Finance and Computer Science.\n
+Lifelong learner.\n
+Seeking truth in data.\n
 👨🏻‍💻📈📊🤖📚👾
+
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
