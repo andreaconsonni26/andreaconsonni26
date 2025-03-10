@@ -1,8 +1,10 @@
-Somewhere between Finance and Computer Science.\n
-Lifelong learner.\n
-Seeking truth in data.\n
-👨🏻‍💻📈📊🤖📚👾
+Somewhere between Finance and Computer Science.
 
+
+Lifelong learner.
+
+
+Seeking truth in data.
 
 
 <div>
