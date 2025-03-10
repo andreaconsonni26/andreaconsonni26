@@ -1,4 +1,6 @@
-Somewhere between Finance and Computer Science.\\
+Somewhere between Finance and Computer Science.
+
+
 Lifelong learner.
 
 
